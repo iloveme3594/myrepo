@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="olympia1" tvg-logo="olympia.png" tvg-shift=+2,Olympia 1
+http://ndr_spezial-lh.akamaihd.net/i/spezial_1@119227/master.m3u8
+#EXTINF:-1 tvg-id="olympia2" tvg-logo="olympia.png" tvg-shift=+2,Olympia 2
+http://ndr_spezial-lh.akamaihd.net/i/spezial_2@119228/master.m3u8
+#EXTINF:-1 tvg-id="olympia3" tvg-logo="olympia.png" tvg-shift=+2,Olympia 3
+http://ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/master.m3u8
+#EXTINF:-1 tvg-id="olympia4" tvg-logo="olympia.png" tvg-shift=+2,Olympia 4
+http://ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/master.m3u8
+#EXTINF:-1 tvg-id="olympia5" tvg-logo="olympia.png" tvg-shift=+2,Olympia 5
+http://ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/master.m3u8
+#EXTINF:-1 tvg-id="olympia6" tvg-logo="olympia.png" tvg-shift=+2,Olympia 6
+http://ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/master.m3u8
