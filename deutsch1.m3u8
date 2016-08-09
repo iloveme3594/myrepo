@@ -13,22 +13,6 @@ http://ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/master.m3u8
 http://ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/master.m3u8
 #EXTINF:-1,-----------------Sports-----------------
 http://topiptv.net:5890/live/habib/habib2016/1444.ts
-#EXTINF:-1,EuroSport
-http://topiptv.net:5890/live/habib/habib2016/1199.ts
-#EXTINF:-1,Sport Digital
-http://topiptv.net:5890/live/habib/habib2016/387.ts
-#EXTINF:-1,Sport1+ HD
-http://topiptv.net:5890/live/habib/habib2016/382.ts
-#EXTINF:-1,Sport1 US HD
-http://topiptv.net:5890/live/habib/habib2016/1077.ts
-#EXTINF:-1,Sky Sport HD 1
-http://topiptv.net:5890/live/habib/habib2016/383.ts
-#EXTINF:-1,Sky Sport HD 2
-http://topiptv.net:5890/live/habib/habib2016/384.ts
-#EXTINF:-1,Sky BundesLiga HD 1
-http://topiptv.net:5890/live/habib/habib2016/385.ts
-#EXTINF:-1,Sky BundesLiga HD 2
-http://topiptv.net:5890/live/habib/habib2016/1076.ts
 #EXTINF:-1,DE: Sky Sport HD 1 Germany
 http://salldiptv.com:8000/live/Star7arab/seddik/459.ts
 #EXTINF:-1,DE: Sky Sport HD 2 Germany
@@ -41,8 +25,6 @@ http://salldiptv.com:8000/live/Star7arab/seddik/466.ts
 http://salldiptv.com:8000/live/Star7arab/seddik/464.ts
 #EXTINF:-1,-----------------Cinema-----------------
 http://topiptv.net:5890/live/habib/habib2016/1443.ts
-#EXTINF:-1,Sky Cinema HD
-http://topiptv.net:5890/live/habib/habib2016/348.ts
 #EXTINF:-1,DE: Sky Comedy Germany
 http://salldiptv.com:8000/live/Star7arab/seddik/449.ts
 #EXTINF:-1,DE: Sky Cinema HD Germany
@@ -53,34 +35,6 @@ http://salldiptv.com:8000/live/Star7arab/seddik/442.ts
 http://salldiptv.com:8000/live/Star7arab/seddik/441.ts
 #EXTINF:-1,----------------Generale----------------
 http://topiptv.net:5890/live/habib/habib2016/1447.ts
-#EXTINF:-1,Das Erste HD
-http://topiptv.net:5890/live/habib/habib2016/367.ts
-#EXTINF:-1,ZDF
-http://topiptv.net:5890/live/habib/habib2016/366.ts
-#EXTINF:-1,SAT.1 HD
-http://topiptv.net:5890/live/habib/habib2016/361.ts
-#EXTINF:-1,VOX HD
-http://topiptv.net:5890/live/habib/habib2016/1684.ts
-#EXTINF:-1,SIXX HD
-http://topiptv.net:5890/live/habib/habib2016/1681.ts
-#EXTINF:-1,RTL Passion
-http://topiptv.net:5890/live/habib/habib2016/1688.ts
-#EXTINF:-1,RTL Crimi
-http://topiptv.net:5890/live/habib/habib2016/1689.ts
-#EXTINF:-1,Romance tv
-http://topiptv.net:5890/live/habib/habib2016/1690.ts
-#EXTINF:-1,PRO 7
-http://topiptv.net:5890/live/habib/habib2016/1677.ts
-#EXTINF:-1,RTL
-http://topiptv.net:5890/live/habib/habib2016/358.ts
-#EXTINF:-1,RTL ll HD
-http://topiptv.net:5890/live/habib/habib2016/359.ts
-#EXTINF:-1,Kabel eins HD
-http://topiptv.net:5890/live/habib/habib2016/355.ts
-#EXTINF:-1,Super Rtl
-http://topiptv.net:5890/live/habib/habib2016/363.ts
-#EXTINF:-1,MGM
-http://topiptv.net:5890/live/habib/habib2016/368.ts
 #EXTINF:-1,DE: DMAX HD
 http://salldiptv.com:8000/live/Star7arab/seddik/456.ts
 #EXTINF:-1,DE: Kabel 1 HD
