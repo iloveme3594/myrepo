@@ -11,79 +11,159 @@ http://ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/master.m3u8
 http://ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/master.m3u8
 #EXTINF:-1 tvg-id="olympia6" tvg-logo="olympia.png" tvg-shift=+2,Olympia 6
 http://ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/master.m3u8
-#EXTINF:-1,-----------------Sports-----------------
-http://topiptv.net:5890/live/habib/habib2016/1444.ts
-#EXTINF:-1,DE: Sky Sport HD 1 Germany
-http://salldiptv.com:8000/live/Star7arab/seddik/459.ts
-#EXTINF:-1,DE: Sky Sport HD 2 Germany
-http://salldiptv.com:8000/live/Star7arab/seddik/460.ts
-#EXTINF:-1,DE: Sky Bundesliga HD 1
-http://salldiptv.com:8000/live/Star7arab/seddik/461.ts
-#EXTINF:-1,DE: Sport1  US HD
-http://salldiptv.com:8000/live/Star7arab/seddik/466.ts
-#EXTINF:-1,DE: Sport1 HD (Germany)
-http://salldiptv.com:8000/live/Star7arab/seddik/464.ts
-#EXTINF:-1,-----------------Cinema-----------------
-http://topiptv.net:5890/live/habib/habib2016/1443.ts
-#EXTINF:-1,DE: Sky Comedy Germany
-http://salldiptv.com:8000/live/Star7arab/seddik/449.ts
-#EXTINF:-1,DE: Sky Cinema HD Germany
-http://salldiptv.com:8000/live/Star7arab/seddik/440.ts
-#EXTINF:-1,DE: Sky Cinema  24 HD Germany
-http://salldiptv.com:8000/live/Star7arab/seddik/442.ts
-#EXTINF:-1,DE: Sky Cinema  1 HD Germany
-http://salldiptv.com:8000/live/Star7arab/seddik/441.ts
-#EXTINF:-1,----------------Generale----------------
-http://topiptv.net:5890/live/habib/habib2016/1447.ts
-#EXTINF:-1,DE: DMAX HD
-http://salldiptv.com:8000/live/Star7arab/seddik/456.ts
-#EXTINF:-1,DE: Kabel 1 HD
-http://salldiptv.com:8000/live/Star7arab/seddik/434.ts
-#EXTINF:-1,DE: Kika HD
-http://salldiptv.com:8000/live/Star7arab/seddik/489.ts
-#EXTINF:-1,DE: ProSieben MAXX HD
-http://salldiptv.com:8000/live/Star7arab/seddik/439.ts
-#EXTINF:-1,DE: Prosieben HD
-http://salldiptv.com:8000/live/Star7arab/seddik/438.ts
-#EXTINF:-1,DE: Nick HD Germany
-http://salldiptv.com:8000/live/Star7arab/seddik/487.ts
-#EXTINF:-1,DE: MTV HD Germany
-http://salldiptv.com:8000/live/Star7arab/seddik/495.ts
-#EXTINF:-1,DE: RTL Crime HD
-http://salldiptv.com:8000/live/Star7arab/seddik/471.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://salldiptv.com:8000/live/Star7arab/seddik/429.ts
-#EXTINF:-1,DE: Sixx HD
-http://salldiptv.com:8000/live/Star7arab/seddik/435.ts
-#EXTINF:-1,DE: Sat 1 HD
-http://salldiptv.com:8000/live/Star7arab/seddik/431.ts
-#EXTINF:-1,DE: Sat 1 Gold HD
-http://salldiptv.com:8000/live/Star7arab/seddik/432.ts
-#EXTINF:-1,DE: RTL Passion Germany
-http://salldiptv.com:8000/live/Star7arab/seddik/481.ts
-#EXTINF:-1,DE: RTL Nitro HD
-http://salldiptv.com:8000/live/Star7arab/seddik/430.ts
-#EXTINF:-1,DE: Super RTL HD
-http://salldiptv.com:8000/live/Star7arab/seddik/488.ts
-#EXTINF:-1,DE: VOX HD
-http://salldiptv.com:8000/live/Star7arab/seddik/433.ts
-#EXTINF:-1,DE: Disney Channel HD Germany
-http://salldiptv.com:8000/live/Star7arab/seddik/483.ts
-#EXTINF:-1,DE: Discovery HD Deutschland
-http://salldiptv.com:8000/live/Star7arab/seddik/455.ts
-#EXTINF:-1,DE: Deluxe Music HD
-http://salldiptv.com:8000/live/Star7arab/seddik/494.ts
-#EXTINF:-1,DE: DMAX HD
-http://salldiptv.com:8000/live/Star7arab/seddik/456.ts
-#EXTINF:-1,DE: Eurosport 2 HD Germany
-http://salldiptv.com:8000/live/Star7arab/seddik/463.ts
-#EXTINF:-1,DE: Eurosport 1 HD
-http://salldiptv.com:8000/live/Star7arab/seddik/462.ts
-#EXTINF:-1,USA: WWE Network
-http://91.134.217.235:1557/live/mix03/rIDn2spxww/2424.ts 
-#EXTINF:-1,USA: Vevo TV Channel 3
-http://91.134.217.235:1557/live/mix03/rIDn2spxww/2425.ts 
-#EXTINF:-1,USA: MMA HD
-http://91.134.217.235:1557/live/mix03/rIDn2spxww/2393.ts 
-#EXTINF:-1,USA: MMA FIGHT
-http://91.134.217.235:1557/live/mix03/rIDn2spxww/2394.ts 
+#EXTINF:-1,GERMAN_sky_sport1
+http://globe2.midomed.com:80/live/claudia/claudia/170.ts
+#EXTINF:-1,GERMAN_sky_sport2_hd
+http://globe2.midomed.com:80/live/claudia/claudia/171.ts
+#EXTINF:-1,GERMAN_Bundesliga
+http://globe2.midomed.com:80/live/claudia/claudia/172.ts
+#EXTINF:-1,GERMAN_sky_cinema
+http://globe2.midomed.com:80/live/claudia/claudia/175.ts
+#EXTINF:-1,GERMAN_sky_cinema_24
+http://globe2.midomed.com:80/live/claudia/claudia/173.ts
+#EXTINF:-1,GERMAN_sky_action
+http://globe2.midomed.com:80/live/claudia/claudia/174.ts
+#EXTINF:-1,GERMAN_Sat_1HD
+http://globe2.midomed.com:80/live/claudia/claudia/909.ts
+#EXTINF:-1,GERMAN_NAT_GEO
+http://globe2.midomed.com:80/live/claudia/claudia/476.ts
+#EXTINF:-1,GERMAN_RTL_HD
+http://globe2.midomed.com:80/live/claudia/claudia/517.ts
+#EXTINF:-1,GERMAN_ZDF_info
+http://globe2.midomed.com:80/live/claudia/claudia/516.ts
+#EXTINF:-1,GERMAN_SKY_COMEDY
+http://globe2.midomed.com:80/live/claudia/claudia/515.ts
+#EXTINF:-1,GERMAN_SKY_ATLANTIC
+http://globe2.midomed.com:80/live/claudia/claudia/514.ts
+#EXTINF:-1,GERMAN-ARTE
+http://globe2.midomed.com:80/live/claudia/claudia/513.ts
+#EXTINF:-1,GERMAN_KABEL_1
+http://globe2.midomed.com:80/live/claudia/claudia/510.ts
+#EXTINF:-1,GERMAN_ORF_2
+http://globe2.midomed.com:80/live/claudia/claudia/508.ts
+#EXTINF:-1,GERMAN_ORF_1
+http://globe2.midomed.com:80/live/claudia/claudia/507.ts
+#EXTINF:-1,GERMAN_DISCOVERY_CHANNEL
+http://globe2.midomed.com:80/live/claudia/claudia/503.ts
+#EXTINF:-1,GERMAN_SKY_HITS
+http://globe2.midomed.com:80/live/claudia/claudia/502.ts
+#EXTINF:-1,GERMAN_VOX_HD
+http://globe2.midomed.com:80/live/claudia/claudia/501.ts
+#EXTINF:-1,GERMAN_FOX
+http://globe2.midomed.com:80/live/claudia/claudia/500.ts
+#EXTINF:-1,GERMAN_SKY_KRIMI
+http://globe2.midomed.com:80/live/claudia/claudia/494.ts
+#EXTINF:-1,GERMAN_SKY_EMOTION
+http://globe2.midomed.com:80/live/claudia/claudia/499.ts
+#EXTINF:-1,GERMAN_RTL2
+http://globe2.midomed.com:80/live/claudia/claudia/498.ts
+#EXTINF:-1,GERMAN_Super_RTL
+http://globe2.midomed.com:80/live/claudia/claudia/497.ts
+#EXTINF:-1,GERMAN_VOX
+http://globe2.midomed.com:80/live/claudia/claudia/495.ts
+#EXTINF:-1,GERMANY_Sky_Sport_plus_1
+http://globe2.midomed.com:80/live/claudia/claudia/2048.ts
+#EXTINF:-1,GERMANY_Sky_Sport_1
+http://globe2.midomed.com:80/live/claudia/claudia/2049.ts
+#EXTINF:-1,GERMANY_Sky_Sport_2
+http://globe2.midomed.com:80/live/claudia/claudia/2050.ts
+#EXTINF:-1,GERMANY_Sky_Eurosport
+http://globe2.midomed.com:80/live/claudia/claudia/2051.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Time_1
+http://globe2.midomed.com:80/live/claudia/claudia/2052.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Time_2
+http://globe2.midomed.com:80/live/claudia/claudia/2053.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Time_3
+http://globe2.midomed.com:80/live/claudia/claudia/2054.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Time_4
+http://globe2.midomed.com:80/live/claudia/claudia/2055.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Time_5
+http://globe2.midomed.com:80/live/claudia/claudia/2056.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Time_6
+http://globe2.midomed.com:80/live/claudia/claudia/2057.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Time_7
+http://globe2.midomed.com:80/live/claudia/claudia/2058.ts
+#EXTINF:-1,GERMANY_Sky-Select_HD6
+http://globe2.midomed.com:80/live/claudia/claudia/1284.ts
+#EXTINF:-1,GERMANY_Sky-Select_HD5
+http://globe2.midomed.com:80/live/claudia/claudia/1285.ts
+#EXTINF:-1,GERMANY_Sky-Select_HD4
+http://globe2.midomed.com:80/live/claudia/claudia/1286.ts
+#EXTINF:-1,GERMANY_Sky-Select_HD3
+http://globe2.midomed.com:80/live/claudia/claudia/1287.ts
+#EXTINF:-1,GERMANY_Sky-Select_HD2
+http://globe2.midomed.com:80/live/claudia/claudia/1288.ts
+#EXTINF:-1,GERMANY_Sky-Select_HD1
+http://globe2.midomed.com:80/live/claudia/claudia/1289.ts
+#EXTINF:-1,GERMANY_Sky_Select_7
+http://globe2.midomed.com:80/live/claudia/claudia/2059.ts
+#EXTINF:-1,GERMANY_Sky_Select_8
+http://globe2.midomed.com:80/live/claudia/claudia/2060.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Austria
+http://globe2.midomed.com:80/live/claudia/claudia/2061.ts
+#EXTINF:-1,GERMANY_Sky_Cinema_ 1
+http://globe2.midomed.com:80/live/claudia/claudia/2062.ts
+#EXTINF:-1,GERMANY_Sky_RTL
+http://globe2.midomed.com:80/live/claudia/claudia/2063.ts
+#EXTINF:-1,GERMANY_Sky_Swr
+http://globe2.midomed.com:80/live/claudia/claudia/2064.ts
+#EXTINF:-1,GERMANY_Sky_RTL_Nitro
+http://globe2.midomed.com:80/live/claudia/claudia/2065.ts
+#EXTINF:-1,GERMANY_ZDF
+http://globe2.midomed.com:80/live/claudia/claudia/2066.ts
+#EXTINF:-1,GERMANY_Sky_SRF_1
+http://globe2.midomed.com:80/live/claudia/claudia/2067.ts
+#EXTINF:-1,GERMANY_Sky_SRF_2
+http://globe2.midomed.com:80/live/claudia/claudia/2068.ts
+#EXTINF:-1,GERMANY_Sky_FOX
+http://globe2.midomed.com:80/live/claudia/claudia/2069.ts
+#EXTINF:-1,GERMANY_Sky_Deluxe_Music
+http://globe2.midomed.com:80/live/claudia/claudia/2070.ts
+#EXTINF:-1,GERMANY_Sky_Disney_Cinemagic
+http://globe2.midomed.com:80/live/claudia/claudia/2071.ts
+#EXTINF:-1,GERMANY_Sky_Disney_Channel
+http://globe2.midomed.com:80/live/claudia/claudia/2072.ts
+#EXTINF:-1,GERMANY_Sky_TNT_Serie
+http://globe2.midomed.com:80/live/claudia/claudia/2073.ts
+#EXTINF:-1,GERMANY_Sky_TNT_Film
+http://globe2.midomed.com:80/live/claudia/claudia/2074.ts
+#EXTINF:-1,GERMANY_Sky_Nickelodeon
+http://globe2.midomed.com:80/live/claudia/claudia/2075.ts
+#EXTINF:-1,GERMANY_Sky_Nat_Geo_wild
+http://globe2.midomed.com:80/live/claudia/claudia/2076.ts
+#EXTINF:-1,GERMANY_Sky_History
+http://globe2.midomed.com:80/live/claudia/claudia/2077.ts
+#EXTINF:-1,GERMANY_Sky_Servus_TV
+http://globe2.midomed.com:80/live/claudia/claudia/2078.ts
+#EXTINF:-1,GERMANY_Sky_13th_Street
+http://globe2.midomed.com:80/live/claudia/claudia/2079.ts
+#EXTINF:-1,GERMANY_Sky_BR
+http://globe2.midomed.com:80/live/claudia/claudia/2080.ts
+#EXTINF:-1,GERMANY_Sky_RBB_Berlin
+http://globe2.midomed.com:80/live/claudia/claudia/2081.ts
+#EXTINF:-1,GERMANY_Sky_Phoenix
+http://globe2.midomed.com:80/live/claudia/claudia/2082.ts
+#EXTINF:-1,GERMANY_Sky_WDR
+http://globe2.midomed.com:80/live/claudia/claudia/2083.ts
+#EXTINF:-1,GERMANY_Sky_Sixx
+http://globe2.midomed.com:80/live/claudia/claudia/2084.ts
+#EXTINF:-1,GERMANY_Sky_Pro_7
+http://globe2.midomed.com:80/live/claudia/claudia/2085.ts
+#EXTINF:-1,GERMANY_Sky_NDR_HD
+http://globe2.midomed.com:80/live/claudia/claudia/2086.ts
+#EXTINF:-1,GERMANY_Sky_N24
+http://globe2.midomed.com:80/live/claudia/claudia/2087.ts
+#EXTINF:-1,GERMANY_Sky_N-TV
+http://globe2.midomed.com:80/live/claudia/claudia/2088.ts
+#EXTINF:-1,GERMANY_Sky_MDR
+http://globe2.midomed.com:80/live/claudia/claudia/2089.ts
+#EXTINF:-1,GERMANY_Sky_Kika
+http://globe2.midomed.com:80/live/claudia/claudia/2090.ts
+#EXTINF:-1,GERMANY_Sky_Dmax
+http://globe2.midomed.com:80/live/claudia/claudia/2091.ts
+#EXTINF:-1,GERMANY_Sky_AXN
+http://globe2.midomed.com:80/live/claudia/claudia/2092.ts
+#EXTINF:-1,GERMANY_Sky_ARD
+http://globe2.midomed.com:80/live/claudia/claudia/2093.ts
+#EXTINF:-1,GERMANY_Sky_3sat
+http://globe2.midomed.com:80/live/claudia/claudia/2094.ts
