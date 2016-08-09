@@ -11,327 +11,217 @@ http://ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/master.m3u8
 http://ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/master.m3u8
 #EXTINF:-1 tvg-id="olympia6" tvg-logo="olympia.png" tvg-shift=+2,Olympia 6
 http://ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/master.m3u8
-#EXTINF:-1,--------------------GERMANY--------------------
-http://topiptv.net:5890/live/habib/habib2016/857.ts
-#EXTINF:-1,----------------PPV----------------
-http://topiptv.net:5890/live/habib/habib2016/1445.ts
-#EXTINF:-1,Sky Select  HD 1
-http://topiptv.net:5890/live/habib/habib2016/830.ts
-#EXTINF:-1,Sky Select  HD 2
-http://topiptv.net:5890/live/habib/habib2016/1070.ts
-#EXTINF:-1,Sky Select  HD 3
-http://topiptv.net:5890/live/habib/habib2016/831.ts
-#EXTINF:-1,Sky Select  HD 4
-http://topiptv.net:5890/live/habib/habib2016/832.ts
-#EXTINF:-1,Sky Select  HD 5
-http://topiptv.net:5890/live/habib/habib2016/833.ts
-#EXTINF:-1,Sky Select  HD 6
-http://topiptv.net:5890/live/habib/habib2016/834.ts
-#EXTINF:-1,Sky Select  HD 7
-http://topiptv.net:5890/live/habib/habib2016/1068.ts
-#EXTINF:-1,Sky Select  HD 8
-http://topiptv.net:5890/live/habib/habib2016/1069.ts
-#EXTINF:-1,Sky Select HD 9
-http://topiptv.net:5890/live/habib/habib2016/1071.ts
-#EXTINF:-1,-----------------Sports-----------------
-http://topiptv.net:5890/live/habib/habib2016/1444.ts
-#EXTINF:-1,EuroSport
-http://topiptv.net:5890/live/habib/habib2016/1199.ts
-#EXTINF:-1,Sport Digital
-http://topiptv.net:5890/live/habib/habib2016/387.ts
-#EXTINF:-1,Sport1+ HD
-http://topiptv.net:5890/live/habib/habib2016/382.ts
-#EXTINF:-1,Sport1 US HD
-http://topiptv.net:5890/live/habib/habib2016/1077.ts
-#EXTINF:-1,Sky Sport HD 1
-http://topiptv.net:5890/live/habib/habib2016/383.ts
-#EXTINF:-1,Sky Sport HD 2
-http://topiptv.net:5890/live/habib/habib2016/384.ts
-#EXTINF:-1,Sky BundesLiga HD 1
-http://topiptv.net:5890/live/habib/habib2016/385.ts
-#EXTINF:-1,Sky BundesLiga HD 2
-http://topiptv.net:5890/live/habib/habib2016/1076.ts
-#EXTINF:-1,-----------------Cinema-----------------
-http://topiptv.net:5890/live/habib/habib2016/1443.ts
-#EXTINF:-1,Sky Cinema HD
-http://topiptv.net:5890/live/habib/habib2016/348.ts
-#EXTINF:-1,Sky Cinema 24
-http://topiptv.net:5890/live/habib/habib2016/349.ts
-#EXTINF:-1,Sky Comedy
-http://topiptv.net:5890/live/habib/habib2016/352.ts
-#EXTINF:-1,Sky Nostalgie
-http://topiptv.net:5890/live/habib/habib2016/357.ts
-#EXTINF:-1,Sky Krimi
-http://topiptv.net:5890/live/habib/habib2016/353.ts
-#EXTINF:-1,SkyAtlantic
-http://topiptv.net:5890/live/habib/habib2016/356.ts
-#EXTINF:-1,Sky Action
-http://topiptv.net:5890/live/habib/habib2016/351.ts
-#EXTINF:-1,Sky Hits
-http://topiptv.net:5890/live/habib/habib2016/350.ts
-#EXTINF:-1,Sky Emotion
-http://topiptv.net:5890/live/habib/habib2016/354.ts
-#EXTINF:-1,TNT Film
-http://topiptv.net:5890/live/habib/habib2016/1214.ts
-#EXTINF:-1,TNT Comedy
-http://topiptv.net:5890/live/habib/habib2016/376.ts
-#EXTINF:-1,13 th Street HD
-http://topiptv.net:5890/live/habib/habib2016/375.ts
-#EXTINF:-1,de:Fox
-http://topiptv.net:5890/live/habib/habib2016/372.ts
-#EXTINF:-1,SyfyHD
-http://topiptv.net:5890/live/habib/habib2016/377.ts
-#EXTINF:-1,AxNHD
-http://topiptv.net:5890/live/habib/habib2016/374.ts
-#EXTINF:-1,----------------Generale----------------
-http://topiptv.net:5890/live/habib/habib2016/1447.ts
-#EXTINF:-1,ORF 1
-http://topiptv.net:5890/live/habib/habib2016/1685.ts
-#EXTINF:-1,ORF 2
-http://topiptv.net:5890/live/habib/habib2016/365.ts
-#EXTINF:-1,Universal Channel
-http://topiptv.net:5890/live/habib/habib2016/1687.ts
-#EXTINF:-1,VOX HD
-http://topiptv.net:5890/live/habib/habib2016/1684.ts
-#EXTINF:-1,SIXX HD
-http://topiptv.net:5890/live/habib/habib2016/1681.ts
-#EXTINF:-1,RTL Passion
-http://topiptv.net:5890/live/habib/habib2016/1688.ts
-#EXTINF:-1,RTL Crimi
-http://topiptv.net:5890/live/habib/habib2016/1689.ts
-#EXTINF:-1,Romance tv
-http://topiptv.net:5890/live/habib/habib2016/1690.ts
-#EXTINF:-1,PRO 7
-http://topiptv.net:5890/live/habib/habib2016/1677.ts
-#EXTINF:-1,SAT.1 HD
-http://topiptv.net:5890/live/habib/habib2016/361.ts
-#EXTINF:-1,ZDF
-http://topiptv.net:5890/live/habib/habib2016/366.ts
-#EXTINF:-1,Das Erste HD
-http://topiptv.net:5890/live/habib/habib2016/367.ts
-#EXTINF:-1,RTL
-http://topiptv.net:5890/live/habib/habib2016/358.ts
-#EXTINF:-1,RTL ll HD
-http://topiptv.net:5890/live/habib/habib2016/359.ts
-#EXTINF:-1,Kabel eins HD
-http://topiptv.net:5890/live/habib/habib2016/355.ts
-#EXTINF:-1,Super Rtl
-http://topiptv.net:5890/live/habib/habib2016/363.ts
-#EXTINF:-1,MGM
-http://topiptv.net:5890/live/habib/habib2016/368.ts
-#EXTINF:-1,-----------------Culture-----------------
-http://topiptv.net:5890/live/habib/habib2016/1446.ts
-#EXTINF:-1,Sky Planet
-http://topiptv.net:5890/live/habib/habib2016/1686.ts
-#EXTINF:-1,3 SAT
-http://topiptv.net:5890/live/habib/habib2016/1682.ts
-#EXTINF:-1,History HD
-http://topiptv.net:5890/live/habib/habib2016/364.ts
-#EXTINF:-1,National Geo Wild
-http://topiptv.net:5890/live/habib/habib2016/380.ts
-#EXTINF:-1,National Geographic People
-http://topiptv.net:5890/live/habib/habib2016/1078.ts
-#EXTINF:-1,NatGeoGeographic
-http://topiptv.net:5890/live/habib/habib2016/381.ts
-#EXTINF:-1,DiscoveryHD
-http://topiptv.net:5890/live/habib/habib2016/379.ts
-#EXTINF:-1,Disney XD
-http://topiptv.net:5890/live/habib/habib2016/373.ts
-#EXTINF:-1,DE_13TH_STREET
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/991.ts
-#EXTINF:-1,DE_A_E
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1005.ts
-#EXTINF:-1,DE_3SAT
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1006.ts
-#EXTINF:-1,DE_ARD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1004.ts
-#EXTINF:-1,DE_ORF2
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/748.ts
-#EXTINF:-1,DE_ORF_EINS
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/747.ts
-#EXTINF:-1,DE_ARTE
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1026.ts
-#EXTINF:-1,DE_WDR
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/934.ts
-#EXTINF:-1,DE_SWR
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1243.ts
-#EXTINF:-1,DE_VOX
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1033.ts
-#EXTINF:-1,DE_PRO_7
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/750.ts
-#EXTINF:-1,DE_PRO_7_MAX
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/751.ts
-#EXTINF:-1,DE_SRF_1
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1273.ts
-#EXTINF:-1,DE_SRF_2
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1272.ts
-#EXTINF:-1,DE_SAT_1
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/753.ts
-#EXTINF:-1,DE_SAT_1_GOLD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/754.ts
-#EXTINF:-1,DE_SRF_INFO
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/762.ts
-#EXTINF:-1,DE_ZDF_INFO
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/47.ts
-#EXTINF:-1,DE_ZDF_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1001.ts
-#EXTINF:-1,DE_ZDF_KULTUR
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/59.ts
-#EXTINF:-1,DE_ROMANCE_TV
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1009.ts
-#EXTINF:-1,DE_SKY_SPORT_NEWS_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1020.ts
-#EXTINF:-1,DE_EINS_FESTIVAL
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/990.ts
-#EXTINF:-1,DE_DELUXE_MUSIC
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1019.ts
-#EXTINF:-1,DE_SPIEGEL_GESCHICHTE
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1027.ts
-#EXTINF:-1,DE_SERVUS_TV
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/755.ts
-#EXTINF:-1,DE_RBB_BERLIN
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/752.ts
-#EXTINF:-1,DE_PHOENIX
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/749.ts
-#EXTINF:-1,DE_NDR
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/743.ts
-#EXTINF:-1,DE_N24
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/740.ts
-#EXTINF:-1,DE_MDR
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/737.ts
-#EXTINF:-1,DE_KIKA
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/736.ts
-#EXTINF:-1,DE_HALLE_TV
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/731.ts
-#EXTINF:-1,DE_HAINMATKANAL
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/730.ts
-#EXTINF:-1,DE_KABEL_EINS
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/734.ts
-#EXTINF:-1,DE_HR
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/733.ts
-#EXTINF:-1,DE_TAGESSCHAU_24
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1228.ts
-#EXTINF:-1,DE_TELE_ZURI
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/302.ts
-#EXTINF:-1,DE_EURONEWS
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1003.ts
-#EXTINF:-1,DE_EINS_PLUS
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/996.ts
-#EXTINF:-1,DE_VIVA_COMEDY_CENTRAL
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/938.ts
-#EXTINF:-1,DE_SIXX
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/756.ts
-#EXTINF:-1,DE_MGM_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/739.ts
-#EXTINF:-1,DE_DMAX
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/974.ts
-#EXTINF:-1,DE_AXN
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/993.ts
-#EXTINF:-1,DE_SYFY
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1029.ts
-#EXTINF:-1,DE_FOX
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1000.ts
-#EXTINF:-1,DE_FOX_LIFE
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/729.ts
-#EXTINF:-1,DE_TNT_FILM
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1030.ts
-#EXTINF:-1,DE_TNT_SERIE
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1031.ts
-#EXTINF:-1,DE_RTL_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1032.ts
-#EXTINF:-1,DE_RTL_2
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/989.ts
-#EXTINF:-1,DE_RTL_NITRO
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1021.ts
-#EXTINF:-1,DE_RTL_PASSION
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1008.ts
-#EXTINF:-1,DE_SUPER_RTL
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1028.ts
-#EXTINF:-1,DE_SKY_3D
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/757.ts
-#EXTINF:-1,DE_SKY_CINEMA_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1280.ts
-#EXTINF:-1,DE_SKY_CINEMA
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/975.ts
-#EXTINF:-1,DE_SKY_CINEMA_HD_1
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/976.ts
-#EXTINF:-1,DE_SKY_EMOTION_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/979.ts
-#EXTINF:-1,DE_SKY_COMEDY_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/978.ts
-#EXTINF:-1,DE_SKY_ACTION_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/973.ts
-#EXTINF:-1,DE_SKY_CINEMA_24_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/977.ts
-#EXTINF:-1,DE_SKY_ATLANTIC_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1022.ts
-#EXTINF:-1,DE_SKY_HITS
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/760.ts
-#EXTINF:-1,DE_SKY_FAMALY_DRAMA
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/759.ts
-#EXTINF:-1,DE_SKY_KRIMI
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1024.ts
-#EXTINF:-1,DE_SKY_BUNDESLIGA_1
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1023.ts
-#EXTINF:-1,DE_SKY_CHAMPIONS
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/758.ts
-#EXTINF:-1,DE_EUROSPORT
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/728.ts
-#EXTINF:-1,DE_SPORT1
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/761.ts
-#EXTINF:-1,DE_SPORTTIME_TV_1_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/982.ts
-#EXTINF:-1,DE_SPORTTIME_TV_2_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/983.ts
-#EXTINF:-1,DE_SPORTTIME_TV_3_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/984.ts
-#EXTINF:-1,DE_SPORTTIME_TV_4_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/985.ts
-#EXTINF:-1,DE_SPORTTIME_TV_5_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/986.ts
-#EXTINF:-1,DE_SPORTTIME_TV_6_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/987.ts
-#EXTINF:-1,DE_SPORTTIME_TV_7_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/988.ts
-#EXTINF:-1,DE_SKY_SPORT_1_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/981.ts
-#EXTINF:-1,DE_SKY_SPORT_2_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/980.ts
-#EXTINF:-1,DE_NAT_GEO_WILD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/992.ts
-#EXTINF:-1,DE_DISCOVERY_CHANNEL
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/997.ts
-#EXTINF:-1,DE_NATIONAL_GEOGRAPHIC_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1007.ts
-#EXTINF:-1,DE_HISTORY_CHANNEL
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/732.ts
-#EXTINF:-1,DE_CARTOON_NETWORK
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/995.ts
-#EXTINF:-1,DE_DISNEY_JUNIOR
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/998.ts
-#EXTINF:-1,DE_DISNEY_CHANNEL
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/999.ts
-#EXTINF:-1,DE_ORF_1
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/746.ts
-#EXTINF:-1,DE_BOOMERANG
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/994.ts
-#EXTINF:-1,DE_SKY_SELECT_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/972.ts
-#EXTINF:-1,DE_SKY_SELECT_1_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/962.ts
-#EXTINF:-1,DE_SKY_SELECT_2_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/963.ts
-#EXTINF:-1,DE_SKY_SELECT_3_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/964.ts
-#EXTINF:-1,DE_SKY_SELECT_4_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/965.ts
-#EXTINF:-1,DE_SKY_SELECT_5_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/966.ts
-#EXTINF:-1,DE_SKY_SELECT_6_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/967.ts
-#EXTINF:-1,DE_SKY_SELECT_7_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/968.ts
-#EXTINF:-1,DE_SKY_SELECT_8_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/969.ts
-#EXTINF:-1,DE_SKY_SELECT_9_HD
-http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/970.ts
+#EXTINF:-1,DE: Sky Sports 1 HD
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/213.ts
+#EXTINF:-1,DE: Sky Sports 2 HD
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/214.ts
+#EXTINF:-1,DE: Sky Bundesliga 1
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/215.ts
+#EXTINF:-1,DE: Sky Bundesliga 2
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1239.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 (offline when no match)
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1240.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 (offline when no match)
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1241.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 (offline when no match)
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1242.ts
+#EXTINF:-1,DE: Sky Bundesliga 6 (offline when no match)
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1243.ts
+#EXTINF:-1,DE: Sky Bundesliga 7 (offline when no match)
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1244.ts
+#EXTINF:-1,DE: ORF SPORT+
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/218.ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/216.ts
+#EXTINF:-1,DE: Sports1 HD
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/217.ts
+#EXTINF:-1,DE: Sport 1 + HD
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/268.ts
+#EXTINF:-1,DE: Sports1 US HD
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/269.ts
+#EXTINF:-1,DE: Sky Sports News
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/270.ts
+#EXTINF:-1,DE: Sky Cinema
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/221.ts
+#EXTINF:-1,DE: Sky Cinema +1
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/222.ts
+#EXTINF:-1,DE: Sky Cinema 24
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/223.ts
+#EXTINF:-1,DE: Sky Action
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/224.ts
+#EXTINF:-1,DE: Sky Comedy
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/225.ts
+#EXTINF:-1,DE: Sky Emotion
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/226.ts
+#EXTINF:-1,DE: Sky Hits
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/227.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/228.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/229.ts
+#EXTINF:-1,DE: Sky Krimi
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/220.ts
+#EXTINF:-1,DE: SKY CINEMA 3D
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/263.ts
+#EXTINF:-1,DE: TNT Serie
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1112.ts
+#EXTINF:-1,DE: TNT Film
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1113.ts
+#EXTINF:-1,DE: AXN
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1114.ts
+#EXTINF:-1,DE: MGM HD
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1115.ts
+#EXTINF:-1,DE: SYFY hd
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1116.ts
+#EXTINF:-1,DE: FOX HD
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1109.ts
+#EXTINF:-1,DE: Sixx
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/250.ts
+#EXTINF:-1,DE: Dmax
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/248.ts
+#EXTINF:-1,DE: RTL
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/231.ts
+#EXTINF:-1,DE: RTL2
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/232.ts
+#EXTINF:-1,DE: Super RTL
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/233.ts
+#EXTINF:-1,DE: RTLNitro
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/234.ts
+#EXTINF:-1,DE: VOX
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/230.ts
+#EXTINF:-1,DE: ARD
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/244.ts
+#EXTINF:-1,DE: ZDF
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/238.ts
+#EXTINF:-1,DE: Zdf Kultur
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/272.ts
+#EXTINF:-1,DE: ZDF Info
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/239.ts
+#EXTINF:-1,DE: ORF1
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/235.ts
+#EXTINF:-1,DE: ORF2
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/236.ts
+#EXTINF:-1,DE: ARTE
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/240.ts
+#EXTINF:-1,DE: Pro7
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/241.ts
+#EXTINF:-1,DE: Sat1
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/242.ts
+#EXTINF:-1,DE: 3sat
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/243.ts
+#EXTINF:-1,DE: MDR
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/245.ts
+#EXTINF:-1,DE: NDR
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/246.ts
+#EXTINF:-1,DE: WDR
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/247.ts
+#EXTINF:-1,DE: SWR
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/260.ts
+#EXTINF:-1,DE: Kabel1 HD
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/249.ts
+#EXTINF:-1,DE: BR
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/252.ts
+#EXTINF:-1,DE: NTV
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/253.ts
+#EXTINF:-1,DE: Phoenix
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/254.ts
+#EXTINF:-1,DE: Viva
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/255.ts
+#EXTINF:-1,DE: RBB
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/256.ts
+#EXTINF:-1,DE: Servus TV
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/258.ts
+#EXTINF:-1,DE: Welt Der Wunder
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/259.ts
+#EXTINF:-1,DE: 13th Street
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/261.ts
+#EXTINF:-1,DE: Pro 7 Maxx HD
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/274.ts
+#EXTINF:-1,DE: ALEX-BERLIN
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1118.ts
+#EXTINF:-1,DE: Munchen TV
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/251.ts
+#EXTINF:-1,DE: Franken
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1119.ts
+#EXTINF:-1,DE: HALLE TV
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1120.ts
+#EXTINF:-1,DE: Joiz
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1121.ts
+#EXTINF:-1,DE: RTL Passion HD
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1122.ts
+#EXTINF:-1,DE: Family TV
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1123.ts
+#EXTINF:-1,DE: ELBEKANAL
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1125.ts
+#EXTINF:-1,DE: Dresden Fernsehen
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1126.ts
+#EXTINF:-1,DE: Light Channel TV Deutschland
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1127.ts
+#EXTINF:-1,DE: RBW
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1128.ts
+#EXTINF:-1,DE: SONNENKLAR
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1129.ts
+#EXTINF:-1,DE: OK Wernigerode
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1130.ts
+#EXTINF:-1,DE: OK Stendal
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1131.ts
+#EXTINF:-1,DE: OK SALZWEDEL
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1132.ts
+#EXTINF:-1,DE: OK MAGDEBURG
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1133.ts
+#EXTINF:-1,DE: OK Dessau
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1134.ts
+#EXTINF:-1,DE: Anixe HD
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1117.ts
+#EXTINF:-1,DE: KIKA
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/257.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1110.ts
+#EXTINF:-1,DE: Disney Channel
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1111.ts
+#EXTINF:-1,DE: Nick
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/262.ts
+#EXTINF:-1,DE: Nick JR
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/266.ts
+#EXTINF:-1,DE: Sky National Geographic
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1135.ts
+#EXTINF:-1,DE: Sky Nat Geo wild
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1136.ts
+#EXTINF:-1,DE: Motorvision TV
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1137.ts
+#EXTINF:-1,DE: Discovery HD
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1138.ts
+#EXTINF:-1,DE: Sky History
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1139.ts
+#EXTINF:-1,DE: A and E
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/267.ts
+#EXTINF:-1,DE: Deluxe Music
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/273.ts
+#EXTINF:-1,DE: Sky Select 1
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/343.ts
+#EXTINF:-1,DE: Sky Select 2
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/345.ts
+#EXTINF:-1,DE: Sky Select 3
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/346.ts
+#EXTINF:-1,DE: Sky Select 4
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/347.ts
+#EXTINF:-1,DE: Sky Select 5
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/348.ts
+#EXTINF:-1,DE: Sky Select 6
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/349.ts
+#EXTINF:-1,DE: Sky Select 7
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/350.ts
+#EXTINF:-1,DE: Sky Select 8
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/351.ts
+#EXTINF:-1,DE: DW
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/265.ts
+#EXTINF:-1,DE: N24
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/264.ts
+#EXTINF:-1,DE: EURONEWS
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/1124.ts
+#EXTINF:-1,DE: Tagesschau 24
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/237.ts
+#EXTINF:-1,DE: Mini Tv
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/271.ts
+#EXTINF:-1,DE: Eurosport
+http://pro.satlover.com:58080/live/theglades/4pvZSJQBU0/219.ts
