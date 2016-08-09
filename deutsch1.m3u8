@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="olympia1" tvg-logo="olympia.png" tvg-shift=+2,Olympia 1
+http://ndr_spezial-lh.akamaihd.net/i/spezial_1@119227/master.m3u8
+#EXTINF:-1 tvg-id="olympia2" tvg-logo="olympia.png" tvg-shift=+2,Olympia 2
+http://ndr_spezial-lh.akamaihd.net/i/spezial_2@119228/master.m3u8
+#EXTINF:-1 tvg-id="olympia3" tvg-logo="olympia.png" tvg-shift=+2,Olympia 3
+http://ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/master.m3u8
+#EXTINF:-1 tvg-id="olympia4" tvg-logo="olympia.png" tvg-shift=+2,Olympia 4
+http://ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/master.m3u8
+#EXTINF:-1 tvg-id="olympia5" tvg-logo="olympia.png" tvg-shift=+2,Olympia 5
+http://ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/master.m3u8
+#EXTINF:-1 tvg-id="olympia6" tvg-logo="olympia.png" tvg-shift=+2,Olympia 6
+http://ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/master.m3u8
+#EXTINF:-1,-----------------Sports-----------------
+http://topiptv.net:5890/live/habib/habib2016/1444.ts
+#EXTINF:-1,EuroSport
+http://topiptv.net:5890/live/habib/habib2016/1199.ts
+#EXTINF:-1,Sport Digital
+http://topiptv.net:5890/live/habib/habib2016/387.ts
+#EXTINF:-1,Sport1+ HD
+http://topiptv.net:5890/live/habib/habib2016/382.ts
+#EXTINF:-1,Sport1 US HD
+http://topiptv.net:5890/live/habib/habib2016/1077.ts
+#EXTINF:-1,Sky Sport HD 1
+http://topiptv.net:5890/live/habib/habib2016/383.ts
+#EXTINF:-1,Sky Sport HD 2
+http://topiptv.net:5890/live/habib/habib2016/384.ts
+#EXTINF:-1,Sky BundesLiga HD 1
+http://topiptv.net:5890/live/habib/habib2016/385.ts
+#EXTINF:-1,Sky BundesLiga HD 2
+http://topiptv.net:5890/live/habib/habib2016/1076.ts
+#EXTINF:-1,DE: Sky Sport HD 1 Germany
+http://salldiptv.com:8000/live/Star7arab/seddik/459.ts
+#EXTINF:-1,DE: Sky Sport HD 2 Germany
+http://salldiptv.com:8000/live/Star7arab/seddik/460.ts
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+http://salldiptv.com:8000/live/Star7arab/seddik/461.ts
+#EXTINF:-1,DE: Sport1  US HD
+http://salldiptv.com:8000/live/Star7arab/seddik/466.ts
+#EXTINF:-1,DE: Sport1 HD (Germany)
+http://salldiptv.com:8000/live/Star7arab/seddik/464.ts
+#EXTINF:-1,-----------------Cinema-----------------
+http://topiptv.net:5890/live/habib/habib2016/1443.ts
+#EXTINF:-1,Sky Cinema HD
+http://topiptv.net:5890/live/habib/habib2016/348.ts
+#EXTINF:-1,DE: Sky Comedy Germany
+http://salldiptv.com:8000/live/Star7arab/seddik/449.ts
+#EXTINF:-1,DE: Sky Cinema HD Germany
+http://salldiptv.com:8000/live/Star7arab/seddik/440.ts
+#EXTINF:-1,DE: Sky Cinema  24 HD Germany
+http://salldiptv.com:8000/live/Star7arab/seddik/442.ts
+#EXTINF:-1,DE: Sky Cinema  1 HD Germany
+http://salldiptv.com:8000/live/Star7arab/seddik/441.ts
+#EXTINF:-1,----------------Generale----------------
+http://topiptv.net:5890/live/habib/habib2016/1447.ts
+#EXTINF:-1,Das Erste HD
+http://topiptv.net:5890/live/habib/habib2016/367.ts
+#EXTINF:-1,ZDF
+http://topiptv.net:5890/live/habib/habib2016/366.ts
+#EXTINF:-1,SAT.1 HD
+http://topiptv.net:5890/live/habib/habib2016/361.ts
+#EXTINF:-1,VOX HD
+http://topiptv.net:5890/live/habib/habib2016/1684.ts
+#EXTINF:-1,SIXX HD
+http://topiptv.net:5890/live/habib/habib2016/1681.ts
+#EXTINF:-1,RTL Passion
+http://topiptv.net:5890/live/habib/habib2016/1688.ts
+#EXTINF:-1,RTL Crimi
+http://topiptv.net:5890/live/habib/habib2016/1689.ts
+#EXTINF:-1,Romance tv
+http://topiptv.net:5890/live/habib/habib2016/1690.ts
+#EXTINF:-1,PRO 7
+http://topiptv.net:5890/live/habib/habib2016/1677.ts
+#EXTINF:-1,RTL
+http://topiptv.net:5890/live/habib/habib2016/358.ts
+#EXTINF:-1,RTL ll HD
+http://topiptv.net:5890/live/habib/habib2016/359.ts
+#EXTINF:-1,Kabel eins HD
+http://topiptv.net:5890/live/habib/habib2016/355.ts
+#EXTINF:-1,Super Rtl
+http://topiptv.net:5890/live/habib/habib2016/363.ts
+#EXTINF:-1,MGM
+http://topiptv.net:5890/live/habib/habib2016/368.ts
+#EXTINF:-1,DE: DMAX HD
+http://salldiptv.com:8000/live/Star7arab/seddik/456.ts
+#EXTINF:-1,DE: Kabel 1 HD
+http://salldiptv.com:8000/live/Star7arab/seddik/434.ts
+#EXTINF:-1,DE: Kika HD
+http://salldiptv.com:8000/live/Star7arab/seddik/489.ts
+#EXTINF:-1,DE: ProSieben MAXX HD
+http://salldiptv.com:8000/live/Star7arab/seddik/439.ts
+#EXTINF:-1,DE: Prosieben HD
+http://salldiptv.com:8000/live/Star7arab/seddik/438.ts
+#EXTINF:-1,DE: Nick HD Germany
+http://salldiptv.com:8000/live/Star7arab/seddik/487.ts
+#EXTINF:-1,DE: MTV HD Germany
+http://salldiptv.com:8000/live/Star7arab/seddik/495.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://salldiptv.com:8000/live/Star7arab/seddik/471.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://salldiptv.com:8000/live/Star7arab/seddik/429.ts
+#EXTINF:-1,DE: Sixx HD
+http://salldiptv.com:8000/live/Star7arab/seddik/435.ts
+#EXTINF:-1,DE: Sat 1 HD
+http://salldiptv.com:8000/live/Star7arab/seddik/431.ts
+#EXTINF:-1,DE: Sat 1 Gold HD
+http://salldiptv.com:8000/live/Star7arab/seddik/432.ts
+#EXTINF:-1,DE: RTL Passion Germany
+http://salldiptv.com:8000/live/Star7arab/seddik/481.ts
+#EXTINF:-1,DE: RTL Nitro HD
+http://salldiptv.com:8000/live/Star7arab/seddik/430.ts
+#EXTINF:-1,DE: Super RTL HD
+http://salldiptv.com:8000/live/Star7arab/seddik/488.ts
+#EXTINF:-1,DE: VOX HD
+http://salldiptv.com:8000/live/Star7arab/seddik/433.ts
+#EXTINF:-1,DE: Disney Channel HD Germany
+http://salldiptv.com:8000/live/Star7arab/seddik/483.ts
+#EXTINF:-1,DE: Discovery HD Deutschland
+http://salldiptv.com:8000/live/Star7arab/seddik/455.ts
+#EXTINF:-1,DE: Deluxe Music HD
+http://salldiptv.com:8000/live/Star7arab/seddik/494.ts
+#EXTINF:-1,DE: DMAX HD
+http://salldiptv.com:8000/live/Star7arab/seddik/456.ts
+#EXTINF:-1,DE: Eurosport 2 HD Germany
+http://salldiptv.com:8000/live/Star7arab/seddik/463.ts
+#EXTINF:-1,DE: Eurosport 1 HD
+http://salldiptv.com:8000/live/Star7arab/seddik/462.ts
+#EXTINF:-1,USA: WWE Network
+http://91.134.217.235:1557/live/mix03/rIDn2spxww/2424.ts 
+#EXTINF:-1,USA: Vevo TV Channel 3
+http://91.134.217.235:1557/live/mix03/rIDn2spxww/2425.ts 
+#EXTINF:-1,USA: MMA HD
+http://91.134.217.235:1557/live/mix03/rIDn2spxww/2393.ts 
+#EXTINF:-1,USA: MMA FIGHT
+http://91.134.217.235:1557/live/mix03/rIDn2spxww/2394.ts 
